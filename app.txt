@@ -1,1 +1,6 @@
 base commit
+Feature2
+feature b
+feature c
+feature d
+38ae851 (added 4: d commit)
