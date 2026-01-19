@@ -1,5 +1,3 @@
-new
- vtu
- line
-Name:	Meghana
-Branch:	CSE
+learning
+new line 
+escape character enabled -e
