@@ -1,3 +1,4 @@
 learning
 new line 
 escape character enabled -e
+exp 1
